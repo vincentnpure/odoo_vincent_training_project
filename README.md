@@ -1,0 +1,1 @@
+# odoo_vincent_training_project
