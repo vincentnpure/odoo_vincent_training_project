@@ -8,7 +8,7 @@
         _Models
         _fields
     """,
-    'Author' : 'Vincentn',
+    'author' : 'Vincentn',
     'website': 'https://www.odoo.com',
     'category': 'Training',
     'version': '0.1',
